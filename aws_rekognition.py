@@ -37,4 +37,3 @@ resfaces=rek.detect_faces(
     Attributes=['ALL']
 )
 print(resfaces)
-response
