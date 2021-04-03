@@ -1,1 +1,1 @@
-# AI_on_AWS
+# AI-on-AWS
